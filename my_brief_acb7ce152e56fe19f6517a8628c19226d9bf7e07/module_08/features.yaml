@@ -1,0 +1,42 @@
+- so_that: >-
+    Tom describes his bookkeeping job once, including his deadline and $150
+    budget, instead of repeating the details to each freelancer.
+  as_a: Small business owner
+  headline: Job Posting Form
+  i_want: >-
+    A small-job posting form with fields for bookkeeping tasks, deadline,
+    budget, and required experience.
+  value_why: Reduces repeated job entry, saving time across freelancers.
+  business_value: 70
+- so_that: >-
+    Tom compares a shortlist of suitable bookkeepers instead of spending hours
+    searching profiles and checking availability.
+  as_a: Small business owner
+  headline: AI Job Brief Generator
+  i_want: >-
+    🤖 AI that turns Tom's description into a clear job brief, flags missing
+    details, and ranks freelancers such as Rosa by bookkeeping experience,
+    availability, and quoted price, explaining each match.
+  value_why: Automates brief creation, cuts search time, improves match quality.
+  business_value: 90
+- so_that: >-
+    Tom delegates the bookkeeping after agreeing on the work, price, and
+    delivery by the fifth, reducing back-and-forth messages and unexpected
+    charges.
+  as_a: Small business owner
+  headline: Hiring Approval Screen
+  i_want: >-
+    👤 A hiring approval screen where Tom chooses a freelancer and both parties
+    confirm the scope, fixed price, and deadline.
+  value_why: Streamlines agreement, prevents back‑and‑forth, ensures price clarity.
+  business_value: 75
+- so_that: >-
+    Tom reviews the completed books in one place, helping keep his total
+    organising and reviewing time within 1 hour per month.
+  as_a: Small business owner
+  headline: Delivery Checklist
+  i_want: >-
+    A delivery checklist where the freelancer submits the completed work and Tom
+    approves it or requests corrections.
+  value_why: Centralizes review, limits revisions, keeps total time under hour.
+  business_value: 80
