@@ -66,5 +66,40 @@
     "note": "nothing"
    }
   ]
+ },
+ "my_brief": {
+  "sha": "acb7ce152e56fe19f6517a8628c19226d9bf7e07",
+  "entry": "module_08/app.md",
+  "files": [
+   "module_08/app.md",
+   "module_08/welcome.md",
+   "module_08/zim.yaml",
+   "module_08/pitch.yaml",
+   "module_08/map.md",
+   "module_08/features.yaml",
+   "module_01/cv.md"
+  ],
+  "by": "414Greed",
+  "engine": "fc79799",
+  "at": "2026-11-05T18:28:48.328Z",
+  "history": [
+   {
+    "sha": "acb7ce152e56fe19f6517a8628c19226d9bf7e07",
+    "at": "2026-11-05T18:28:48.328Z",
+    "entry": "module_08/app.md",
+    "engine": "fc79799",
+    "parts": [
+     "import",
+     "persona",
+     "pitch",
+     "runner",
+     "dataset",
+     "datagrid",
+     "tabs"
+    ],
+    "todo": 0,
+    "note": "ojbu"
+   }
+  ]
  }
 }
